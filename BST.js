@@ -321,3 +321,5 @@ tree.inOrder(node => console.log("inorder!" + node.value));
 
 
 }
+
+
